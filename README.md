@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Yae - a data professional in making.
 
-<!--
-**yaechara/yaechara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a background in e-commerce, tech, and healthcare, I focus on using data and automation to drive smarter digital growth.
+<br><br>
 
-Here are some ideas to get you started:
+### 💘 What I'm Working On  
+- Marketing analytics & automation  
+- Product data ops (Shopify + Amazon)  
+- Learning data science @ Le Wagon  
+- Applying ML and analytics to e-commerce data
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Skills and Tools
+Python, SQL, BigQuery, GA4, GTM, Tableau, Looker Studio, HTML/CSS
+<br>
+Also: Jira, Trello, Shopify, Salsify, Klaviyo ...
