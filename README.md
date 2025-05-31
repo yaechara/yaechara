@@ -1,16 +1,16 @@
-## 👋 Hi, I'm Yae - a data professional in making.
+## 👋 Hello, I'm Yae - a data professional in marketing.
 
-With a background in e-commerce, tech, and healthcare, I focus on using data and automation to drive smarter digital growth.
+I have an e-commerce, tech, and healthcare background and focus on driving improved digital growth through data and automation.
 <br><br>
 
-### 💘 What I'm Working On  
+### 💘 What I do
 - Marketing analytics & automation  
-- Product data ops (Shopify + Amazon)  
-- Learning data science @ Le Wagon  
+- Product data ops (Shopify + Amazon)
+- Learning data science @ Le Wagon
 - Applying ML and analytics to e-commerce data
 <br><br>
 
-### 💡 Skills and Tools
+### 💡 Skills and tools
 Python, SQL, BigQuery, GA4, GTM, Tableau, Looker Studio, HTML/CSS
 <br>
 Also: Jira, Trello, Shopify, Salsify, Klaviyo ...
